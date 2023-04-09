@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thinhbuihong
-- 👀 I’m interested in NodeJs, GoLang
+- 👀 I’m interested in NodeJs
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me thinhbuihong.ma@gmail.com
